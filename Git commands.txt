@@ -4,7 +4,7 @@
    * 1st time uploading files
 	 -git init
 	 -git add index.html //select file to add github
-	 -git cpmmit -m "my first html file"  //to add commit msg
+	 -git commit -m "my first html file"  //to add commit msg
 	 -git remote add origin url_of_repos..  //to adding online repository its only select repos
 	 -git push origin master //its upload file online
 
