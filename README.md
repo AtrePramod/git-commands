@@ -1,6 +1,6 @@
-# Responsive Navbar Project
+# Git Commands 
 
-This project is a responsive navigation bar created using HTML and CSS. Below are the Git commands to clone the repository and navigate through the project.
+This repo is a git commands to adding code in github.
 
 ## Git Commands
 
